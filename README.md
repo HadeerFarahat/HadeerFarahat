@@ -1,124 +1,122 @@
-<h1 align="center">
-Hi there! 👋 I'm Hadeer Farahat
-</h1>
+<h1 align="center">Hi 👋, I'm Hadeer Farahat</h1>
 
 <h3 align="center">
-💻 Computer Science Student | 🌐 Aspiring Full Stack Developer | 🚀 Lifelong Learner
+Computer Science Student • Full Stack Developer • Software Engineering Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
+Passionate about building scalable web applications, solving real-world problems, and continuously learning modern technologies.
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Computer Science Student
-- 🌐 Learning Full Stack Web Development
-- 🎨 Passionate about UI Design & Creative Web Experiences
-- 📚 Sharing my learning journey on LinkedIn under **"بحاول مبطلش أحاول"**
-- 💡 I enjoy solving problems and turning ideas into real projects.
-- 🚀 My goal is to become a professional Full Stack Developer.
-- ❤️ Always learning something new.
-
----
-
-# 🛠 Tech Stack
-
-### 🌐 Front-End
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
-</p>
-
-### ⚙️ Back-End
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/>
-</p>
+- 🎓 Computer Science Student.
+- 🌐 Passionate about Full Stack Web Development.
+- 💻 Currently focused on the **MERN Stack**.
+- 🎨 Interested in creating modern, responsive, and user-friendly web applications.
+- 📚 Always learning new technologies and improving my software engineering skills.
+- 🧩 Strong believer in problem solving, clean code, and continuous improvement.
+- 🤝 Open to collaboration on innovative projects and open-source contributions.
 
 ---
 
-# 🌱 Currently Learning
+## 🚀 Currently Learning
 
 - HTML5
 - CSS3
-- JavaScript
-- Responsive Design
-- React
+- JavaScript (ES6+)
+- React.js
 - Node.js
 - Express.js
 - MongoDB
 - Git & GitHub
+- Data Structures & Algorithms
 
 ---
 
-# 🎯 2026 Goals
+## 🛠 Languages & Tools
 
-✅ Build Strong Front-End Projects
+<p align="left">
 
-✅ Master React
+<a href="https://www.w3.org/html/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+</a>
 
-✅ Learn Back-End Development
+<a href="https://www.w3schools.com/css/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+</a>
 
-✅ Build Full Stack Applications
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+</a>
 
-✅ Create an Outstanding Portfolio
+<a href="https://react.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+</a>
 
-✅ Land My First Internship
+<a href="https://nodejs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+</a>
+
+<a href="https://expressjs.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+</a>
+
+<a href="https://www.postman.com/">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+</a>
+
+</p>
 
 ---
 
-# 📈 GitHub Goals
-
-- Build real-world projects.
-- Write clean and reusable code.
-- Learn by building.
-- Improve every single day.
-
----
-
-# 🌍 Connect With Me
-
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-
-📧 Email: your@email.com
-
----
-
-# 💙 Favorite Quote
-
-> "Don't stop trying. Every small step brings you closer to your dream."
-
-⭐ Thanks for visiting my profile!
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+---
+
+## 🎯 Goals
+
+- Build scalable Full Stack applications.
+- Improve problem-solving skills.
+- Master modern web technologies.
+- Contribute to open-source projects.
+- Secure a Software Engineering Internship.
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- Email: YOUR_EMAIL
+
+---
+
+<div align="center">
+
+### *"Code with purpose. Learn with passion. Build for impact."* 🚀
+
+</div>
